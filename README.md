@@ -1,2 +1,2 @@
 # Chatbot
-A Chatbot with the help of Tkinter
+A English Chatbot with the help of Tkinter
