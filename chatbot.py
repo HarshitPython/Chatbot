@@ -1,3 +1,4 @@
+# chatbot starting
 from tkinter import *
 root=Tk()
 def send():
